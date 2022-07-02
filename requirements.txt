@@ -1,0 +1,20 @@
+# wheel
+# apache-airflow[crypto,celery,postgres,hive,jdbc,werkzeug,cncf.kubernetes]==2.3.2
+# SQLAlchemy
+# cython
+# thrift_sasl==0.2.1
+# pytz
+# pyOpenSSL
+# ndg-httpsclient
+# boto3
+# cryptography
+# psycopg2-binary
+# flask-bcrypt
+# python-dotenv
+# redis
+# markupsafe
+pymongo
+boto3
+pyspark
+azure-storage-blob
+apache-airflow-providers-amazon

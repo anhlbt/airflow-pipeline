@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../hotel_price_recommender"
+		},
+		{
+			"path": "../../Movalytics-Data-Warehouse"
+		},
+		{
+			"path": "../../ETL-pipeline"
+		},
+		{
+			"path": "../../airflow-spark"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
